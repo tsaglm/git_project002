@@ -15,6 +15,10 @@ public class FirstClass {
 		 System.out.println("This is the second commit from remote master");
  
 		 System.out.println("first commit from tugba ");
+		 
+		 System.out.println("the second commit from local tugba");
+		 
 	}
 
 }
+  
